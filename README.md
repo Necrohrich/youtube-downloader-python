@@ -40,13 +40,13 @@ Files will be saved in the `downloads` folder within the script's directory.
 
 ```
 === YouTube Downloader ===
-🔗 Enter YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Enter YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Choose format ('audio' or 'video'): audio
 Enter max bitrate (audio in kbps, video height in px) or leave blank for default: 128
 
-📥 Downloading from: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Downloading from: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-✅ Download complete! Files saved in 'downloads' folder.
+Download complete! Files saved in 'downloads' folder.
 ```
 
 ## License
